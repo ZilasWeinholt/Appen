@@ -58,7 +58,7 @@
 </head>
 <body>
     <header>
-        <img src="tektra-logo.png" alt="Tektra A/S Logo">
+
         <h1>Velkommen til Tektra A/S</h1>
     </header>
 
